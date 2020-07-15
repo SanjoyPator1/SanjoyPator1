@@ -2,9 +2,7 @@
 
 - 🌱 I’m currently learning Machine Learning and Android development
 - 📫 How to reach me:
-[LinkedIn](https://www.linkedin.com/in/sanjoy-pator-91a41a182/)
-
-[HackerRank](https://www.hackerrank.com/flashninja69)
+[LinkedIn](https://www.linkedin.com/in/sanjoy-pator-91a41a182/) , [HackerRank](https://www.hackerrank.com/flashninja69)
 
 
 - 😄 Pronouns: ...
