@@ -1,11 +1,10 @@
 ### Sanjoy Pator Portfolio
 
-- 🔭 I’m currently working on some projects :)
 - 🌱 I’m currently learning Machine Learning and Android development
-- 👯 I’m looking to collaborate on Interesting projects
-- 🤔 I’m looking for help with DL
-- 💬 Ask me about anything related to tech
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sanjoy-pator-91a41a182/)
+- 📫 How to reach me:
+[LinkedIn](https://www.linkedin.com/in/sanjoy-pator-91a41a182/)
+
+[HackerRank](https://www.hackerrank.com/flashninja69)
 
 
 - 😄 Pronouns: ...
