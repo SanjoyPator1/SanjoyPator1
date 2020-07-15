@@ -5,7 +5,9 @@
 - 👯 I’m looking to collaborate on Interesting projects
 - 🤔 I’m looking for help with DL
 - 💬 Ask me about anything related to tech
-- 📫 How to reach me: ...
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sanjoy-pator-91a41a182/)
+
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Do it Today.
 
