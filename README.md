@@ -6,7 +6,7 @@
 
 
 - 😄 I will upload: all the competitive codes I have solved + my project work in future
-- ⚡ Fun fact: I have to do.
+- ⚡ Fun fact: The uncertainity that cant be solved.
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=SanjoyPator1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
