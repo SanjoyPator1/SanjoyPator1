@@ -8,9 +8,7 @@
 - 😄 I will upload: all the competitive codes I have solved + my project work in future
 - ⚡ Fun fact: The uncertainity that cant be solved.
 
-[![Linkedin: Sanjoy Pator](https://img.shields.io/badge/-Sanjoy_Pator-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjoy-pator-91a41a182/)](https://www.linkedin.com/in/sanjoy-pator-91a41a182/)
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+[![Linkedin: Sanjoy Pator](https://img.shields.io/badge/-Sanjoy_Pator-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjoy-pator-91a41a182/)](https://www.linkedin.com/in/sanjoy-pator-91a41a182/) , <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
 <a href="https://github.com/SanjoyPator1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjoyPator1&theme=dark&hide_langs_below=1" />
