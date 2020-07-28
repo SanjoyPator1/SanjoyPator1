@@ -3,7 +3,7 @@
 <p align="center">
  
  
- <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+ <img src="https://github.com/SanjoyPator1/SanjoyPator1/blob/master/banner.png?raw=true" alt="Hello world">
 
  
  <h2 align="center">Welcome To My Repository</h2>
