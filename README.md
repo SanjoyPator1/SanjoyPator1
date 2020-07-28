@@ -1,5 +1,22 @@
 ### Sanjoy Pator Portfolio
 
+<p align="center">
+ 
+ 
+ <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+ 
+ <h2 align="center">Welcome To My Repository</h2>
+ <p align="center"> Sanjoy Pator </p>
+</p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SanjoyPator1/count.svg" />
+</p>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 - 🌱 I’m currently learning Machine Learning and Android development
 - 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/sanjoy-pator-91a41a182/) , [HackerRank](https://www.hackerrank.com/flashninja69) , [HackerEarth](https://www.hackerearth.com/@flashninja69)
