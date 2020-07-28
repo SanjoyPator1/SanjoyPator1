@@ -26,13 +26,14 @@
 - ⚡ Fun fact: The uncertainity that cant be solved.
 
 [![Linkedin: Sanjoy Pator](https://img.shields.io/badge/-Sanjoy_Pator-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjoy-pator-91a41a182/)](https://www.linkedin.com/in/sanjoy-pator-91a41a182/)  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-
+&nbsp;
 <a href="https://github.com/SanjoyPator1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjoyPator1&theme=dark&hide_langs_below=1" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjoyPator1&theme=dark&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SanjoyPator1&show_icons=true&theme=dracula&line_height=27" alt="Sanjoy Pator's github stats"/>
+&nbsp;
+<a href="https://github.com/SanjoPator1">
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=SanjoyPator1&show_icons=true&theme=dracula&line_height=27" alt="Sanjoy Pator's github stats"/>
 </a>
-
-
+&nbsp;
+<img height = "200" align="right" alt="logo"  src="https://github.com/SanjoyPator1/SanjoyPator1/blob/master/uniqlogo.PNG?raw=true" />
