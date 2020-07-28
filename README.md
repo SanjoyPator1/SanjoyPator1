@@ -40,6 +40,6 @@
 <a href="https://github.com/SanjoyPator1">
  <img style=”padding-top:30px;” align="right" src="https://github-readme-stats.vercel.app/api?username=SanjoyPator1&show_icons=true&theme=dracula&line_height=27" alt="Sanjoy Pator's github stats"/>
 </a>
-<a href="https:www.uniqofficial.me">
+<a href="https://www.uniqofficial.me">
  <img style=”padding-top:50px;” height = "200" align="right" alt="logo"  src="https://github.com/SanjoyPator1/SanjoyPator1/blob/master/uniqlogo.PNG?raw=true" />
 </a>
