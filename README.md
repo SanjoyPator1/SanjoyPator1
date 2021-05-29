@@ -17,12 +17,12 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-- 🌱 I’m currently learning Machine Learning and Android development
+- 🌱 I’m currently focussing on Deep Learning, Flutter & backend development
 - 📫 How to reach me:
-[LinkedIn](https://www.linkedin.com/in/sanjoy-pator-91a41a182/) , [HackerRank](https://www.hackerrank.com/flashninja69) , [HackerEarth](https://www.hackerearth.com/@flashninja69)
+[LinkedIn](https://www.linkedin.com/in/sanjoy-pator-91a41a182/) , [HackerRank](https://www.hackerrank.com/flashninja69) , [Twitter](https://twitter.com/SanjoyPatorUniq) , [Youtube Channel](https://www.youtube.com/channel/UCDcs62AfLGPlmXLuP7g8O9w/featured)
 
 
-- 😄 I will upload: all the competitive codes I have solved + my project work in future
+- 😄 I will upload: my personal projects, academic works, competitive codes here
 - ⚡ Fun fact: The uncertainity that cant be solved.
 
 [![Linkedin: Sanjoy Pator](https://img.shields.io/badge/-Sanjoy_Pator-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjoy-pator-91a41a182/)](https://www.linkedin.com/in/sanjoy-pator-91a41a182/)  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
