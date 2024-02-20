@@ -17,7 +17,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-- 🌱 I’m currently focussing on Deep Learning, Flutter & backend development
+- 🌱 I’m currently focussing on Web development - Frontend React, D3 etc and Backend Express, Go, GraphQL. PostgreSQL, MongoDB etc.
 - 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/sanjoy-pator-91a41a182/) , [HackerRank](https://www.hackerrank.com/flashninja69) , [Twitter](https://twitter.com/SanjoyPatorUniq) , [Youtube Channel](https://www.youtube.com/channel/UCDcs62AfLGPlmXLuP7g8O9w/featured)
 
